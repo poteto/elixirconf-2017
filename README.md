@@ -97,7 +97,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### It's Better Unstated by [TJ Stankus](http://twitter.com/tjstankus)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=S2-1Rt-R2cY)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
@@ -163,6 +163,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 - Video - Not uploaded yet
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- [Demo](https://github.com/johnwahba/vdemo2017)
 - Links:
     + [FFmpeg](https://www.ffmpeg.org/)
     + [Porcelain](https://github.com/alco/porcelain)
