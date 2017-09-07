@@ -90,7 +90,10 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - Video - Not uploaded yet
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
+    + [Ecto.Type](https://hexdocs.pm/ecto/Ecto.Type.html)
+    + [Solid Ground by Saša Juric](https://www.youtube.com/watch?v=5SbWapbXhKo)
+    + [The fallacies of web application performance](http://blog.plataformatec.com.br/2017/07/the-fallacies-of-web-application-performance/)
 
 #### It's Better Unstated by [TJ Stankus](http://twitter.com/tjstankus)
 
