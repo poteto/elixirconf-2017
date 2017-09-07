@@ -124,7 +124,12 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - Video - Not uploaded yet
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + [Perhap](https://github.com/Perhap/perhap)
+    + [Domain Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+    + [Reactive Microservices Architecture: Design Principles for Distributed Systems](http://www.oreilly.com/programming/free/reactive-microservices-architecture-orm.csp)
+    + [Commanded](https://github.com/slashdotdash/commanded)
+    + [Lonestar ElixirConf 2017 - KEYNOTE: Phoenix 1.3 by Chris McCord](https://www.youtube.com/watch?v=tMO28ar0lW8)
+    + [Domain Modeling Made Functional by Scott Wlaschin](https://pragprog.com/book/swdddf/domain-modeling-made-functional)
 
 #### Writing an Editor in Elixir by [Ian Duggan](http://twitter.com/ijcd)
 
