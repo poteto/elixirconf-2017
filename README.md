@@ -11,7 +11,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### Opening Keynote by [Justin Schneck](https://twitter.com/mobileoverlord)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=bd_EIWU9GzQ)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + [Nerves](http://nerves-project.org/)
@@ -19,21 +19,21 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### Alchemist Gopher: My Journey from Go to Elixir by [Veronica Lopez](http://twitter.com/maria_fibonacci)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=f979XY2A2HU)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
 #### Elixir Native UI by [Boyd Multerer](http://twitter.com/@BoydMulterer)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=77FW-jrCyCs)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
 #### HTTP/2 Plug to Phoenix, Cowboy too by [Gary Rennie](http://twitter.com/TheGazler)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=Mq_tb2fkROo)
 - [Slides](http://blog.gazler.com/talks/http2-plug-to-phoenix)
 - Links:
     + [HTTP/2](https://http2.github.io/)
@@ -51,21 +51,21 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### Building an Artificial Pancreas with Elixir and Nerves by [Tim Mecklem](http://twitter.com/tim_mecklem)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=ARQD4BN_5ns)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
 #### Don't Write Macros (But Do Learn How They Work) by [Jesse Anderson](http://twitter.com/jessejanderson)
 
-- Video - Not uploaded yet
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- [Video](https://www.youtube.com/watch?v=Bo48sQDb-hk&t=1s)
+- [Slides](https://speakerdeck.com/jessejanderson/dont-write-macros-but-do-learn-how-they-work)
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
 #### Thinking In Ecto by [Darin Wilson](http://twitter.com/darinwilson)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=YQxopjai0CU)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + [ecto](https://github.com/elixir-ecto/ecto)
@@ -73,21 +73,21 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### Elixir by the Bellyful by [Bryan Hunter](http://twitter.com/bryan_hunter)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=iswld-Rpi_g)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
 #### Embedded Elixir for Monitoring the Built Environment by [Christopher Coté](http://twitter.com/entropealab)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=_zQ_u7o1rNo)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
 #### Phoenix after 100,000 lines by [Renan Ranelli](http://twitter.com/renanranelli)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=blGJ_p4plbc)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
@@ -164,4 +164,6 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - Video - Not uploaded yet
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + [FFmpeg](https://www.ffmpeg.org/)
+    + [Porcelain](https://github.com/alco/porcelain)
+    + [Erlang Ports](http://erlang.org/doc/reference_manual/ports.html)
