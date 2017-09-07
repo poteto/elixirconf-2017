@@ -34,7 +34,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 #### HTTP/2 Plug to Phoenix, Cowboy too by [Gary Rennie](http://twitter.com/TheGazler)
 
 - Video - Not uploaded yet
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- [Slides](http://blog.gazler.com/talks/http2-plug-to-phoenix)
 - Links:
     + [HTTP/2](https://http2.github.io/)
     + [Plug](https://github.com/elixir-plug/plug)
@@ -68,7 +68,8 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - Video - Not uploaded yet
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + [ecto](https://github.com/elixir-ecto/ecto)
+    + [Active Record pattern](https://en.wikipedia.org/wiki/Active_record_pattern)
 
 #### Elixir by the Bellyful by [Bryan Hunter](http://twitter.com/bryan_hunter)
 
