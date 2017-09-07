@@ -36,7 +36,18 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - Video - Not uploaded yet
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + [HTTP/2](https://http2.github.io/)
+    + [Plug](https://github.com/elixir-plug/plug)
+    + [cowboy](https://github.com/ninenines/cowboy)
+    + [cowlib](https://github.com/ninenines/cowlib)
+    + [ranch](https://github.com/ninenines/ranch)
+    + [gun](https://github.com/ninenines/gun)
+    + [Phoenix](http://phoenixframework.org/)
+    + [Cowboy 2.0: The Shape of Things to Come](https://ninenines.eu/talks/cowboy-2/#/)
+    + [A Tale of 2.0 Cowboys](http://www.erlang-factory.com/euc2017/loic-hoguin)
+    + [Plug Cowboy 2.0 Adapter](https://github.com/VoiceLayer/plug_cowboy2)
+    + [Phoenix HTTP/2 Client demo](https://github.com/VoiceLayer/phoenix_http2_client)
+    + [Phoenix Cowboy 2.0 demo](https://github.com/VoiceLayer/phoenix_cowboy2_example)
 
 #### Building an Artificial Pancreas with Elixir and Nerves by [Tim Mecklem](http://twitter.com/tim_mecklem)
 
