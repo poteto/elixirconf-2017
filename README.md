@@ -15,6 +15,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + [Nerves](http://nerves-project.org/)
+    + [Nerves Test Server](https://github.com/nerves-project/nerves_test_server)
 
 #### Alchemist Gopher: My Journey from Go to Elixir by [Veronica Lopez](http://twitter.com/maria_fibonacci)
 
