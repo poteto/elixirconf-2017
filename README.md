@@ -115,6 +115,9 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + [Out of the Tar Pit](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf)
+    + [ETS](http://erlang.org/doc/man/ets.html)
+    + [shards](https://github.com/cabol/shards)
+    + [Sharding support for ETS](https://cabol.github.io/posts/2016/04/14/sharding-support-for-ets.html/)
 
 #### Perhap: Applying Domain Driven Design and Reactive Architectures to Functional Programming by [Rob Martin](http://twitter.com/version2beta)
 
