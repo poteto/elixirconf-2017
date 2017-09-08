@@ -190,7 +190,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### Opening Keynote by [José Valim](https://twitter.com/josevalim)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=Wa7_I_pc0yo)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + [Add new AtU8 beam chunk](https://github.com/erlang/otp/pull/1078)
