@@ -198,21 +198,21 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### Live APIs with GraphQL Subscriptions by [Bruce Williams](http://twitter.com/wbruce) & [Ben Wilson](http://twitter.com/benwilson512)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=PEckzwggd78)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
 #### ElixirBridge: How Do We Shape Community? by [Anna Neyzberg](http://twitter.com/ANeyzb)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=SB0bfI8DiOM)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
 #### Dr. Erlang/OTP or: How I Learned to Stop Worrying and Love `:disk_log` by [Eric Entin](http://twitter.com/antipax)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=lQmJZVcHYds)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + [`disk_log`](http://erlang.org/doc/man/disk_log.html)
@@ -239,21 +239,21 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### Patience: Using Phoenix.Presence in a Primary Care Clinic by [Keith Gautreaux](http://twitter.com/kgautreaux)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=1dyo5hmfUXs)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
 #### Elixir + Neo4j by [Regina Imhoff](http://twitter.com/stabbymcduck)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=fWQy7aS_gd8)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
 #### Managing Tables With Elixir and OTP by [Robert Beene](http://twitter.com/robert_beene)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=ENolm5T0bkU)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
