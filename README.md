@@ -133,7 +133,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### Writing an Editor in Elixir by [Ian Duggan](http://twitter.com/ijcd)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=6lIVWVmuPao)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
