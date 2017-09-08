@@ -270,7 +270,9 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - Video - Not uploaded yet
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + [bootleg](https://github.com/labzero/bootleg)
+    + [edeliver](https://github.com/edeliver/edeliver)
+    + [doex](https://github.com/capbash/doex)
 
 #### Well-Behaved Native Implemented Functions for Elixir by [Andrew Bennett](http://twitter.com/potatosaladx)
 
