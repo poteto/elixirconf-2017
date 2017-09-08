@@ -168,3 +168,9 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
     + [FFmpeg](https://www.ffmpeg.org/)
     + [Porcelain](https://github.com/alco/porcelain)
     + [Erlang Ports](http://erlang.org/doc/reference_manual/ports.html)
+
+#### Lightning Talks
+
+- [QRCode](https://github.com/sunboshan/qrcode)
+- [Thesis](https://github.com/infinitered/thesis-phoenix)
+- [XProf](https://github.com/Appliscale/xprof)
