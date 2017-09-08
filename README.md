@@ -360,7 +360,10 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - Video - Not uploaded yet
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + [gen_stage](https://github.com/elixir-lang/gen_stage)
+    + [flow](https://github.com/elixir-lang/flow)
+    + [kafkaex](https://github.com/kafkaex/kafka_ex)
+    + [brod](https://github.com/klarna/brod)
 
 #### Lightning Talks
 
