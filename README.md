@@ -104,14 +104,14 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### Working with legacy databases in Ecto by [Geoffrey Lessel](http://twitter.com/geolessel)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=3W2dMOQL2CM)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
 #### Back on Your Feet by [Claudio Ortolina](http://twitter.com/cloud8421)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=kWYgrA2YshE)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + [Out of the Tar Pit](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf)
