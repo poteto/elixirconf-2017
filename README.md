@@ -275,9 +275,14 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 #### Well-Behaved Native Implemented Functions for Elixir by [Andrew Bennett](http://twitter.com/potatosaladx)
 
 - Video - Not uploaded yet
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- [Slides](https://gitpitch.com/potatosalad/elixirconf2017)
+- [Resources](https://github.com/potatosalad/elixirconf2017)
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + [erl_nif](http://erlang.org/doc/man/erl_nif.html)
+    + [Latency of Native Functions for Erlang and Elixir](https://potatosalad.io/2017/08/05/latency-of-native-functions-for-erlang-and-elixir.html)
+    + [The BEAM Book](https://github.com/happi/theBeamBook)
+    + [crypto.c](https://github.com/erlang/otp/blob/master/lib/crypto/c_src/crypto.c)
+    + [Load Testing cowboy 2.0.0-rc.1](https://potatosalad.io/2017/08/20/load-testing-cowboy-2-0-0-rc-1.html)
 
 #### Building an Open Source, Real-Time Forum with Phoenix and Elm by [Josh Adams](http://twitter.com/knewter)
 
