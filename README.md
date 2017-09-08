@@ -325,7 +325,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - Video - Not uploaded yet
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + [sobelow](https://github.com/nccgroup/sobelow)
 
 #### Building Realtime Mobile Apps with React Native and Elixir by [Osayame Gaius-Obaseki](http://github.com/osayame)
 
