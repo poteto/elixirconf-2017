@@ -215,7 +215,27 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - Video - Not uploaded yet
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + [`disk_log`](http://erlang.org/doc/man/disk_log.html)
+    + [mnesia](http://erlang.org/doc/man/mnesia.html)
+    + [Jinterface](http://erlang.org/doc/apps/jinterface/jinterface_users_guide.html)
+    + [wx](http://erlang.org/doc/man/wx.html)
+    + [ssh](http://erlang.org/doc/man/ssh.html)
+    + [dialyzer](http://erlang.org/doc/man/dialyzer.html)
+    + [dialyxir](https://github.com/jeremyjh/dialyxir)
+    + [yecc](http://erlang.org/doc/man/yecc.html)
+    + [leex](http://erlang.org/doc/man/leex.html)
+    + [Elixir parser](https://github.com/elixir-lang/elixir/blob/master/lib/elixir/src/elixir_parser.yrl)
+    + [gen_statem](http://erlang.org/doc/man/gen_statem.html)
+    + [gen_state_machine](https://github.com/antipax/gen_state_machine)
+    + [Stately Machines](http://ericent.in/elixir/erlang/gen_statem/gen_state_machine/2016/07/27/stately-machines.html)
+    + [digraph](http://erlang.org/doc/man/digraph.html)
+    + [zlib](http://erlang.org/doc/man/zlib.html)
+    + [pg2](http://erlang.org/doc/man/pg2.html)
+    + [heart](http://erlang.org/doc/man/heart.html)
+    + [rpc](http://erlang.org/doc/man/rpc.html)
+    + [beam_lib](http://erlang.org/doc/man/beam_lib.html)
+    + [proc_lib](http://erlang.org/doc/man/proc_lib.html)
+    + [xmerl](http://erlang.org/doc/man/xmerl.html)
 
 #### Patience: Using Phoenix.Presence in a Primary Care Clinic by [Keith Gautreaux](http://twitter.com/kgautreaux)
 
