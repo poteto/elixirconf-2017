@@ -29,7 +29,12 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - [Video](https://www.youtube.com/watch?v=77FW-jrCyCs)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + [OpenGL](https://www.opengl.org/)
+    + [Learn OpenGL](https://learnopengl.com/)
+    + [GLUT](https://www.opengl.org/resources/libraries/glut/)
+    + [Retained Mode Versus Immediate Mode](https://msdn.microsoft.com/en-us/library/windows/desktop/ff684178(v=vs.85).aspx)
+    + [Scene graph](https://webglfundamentals.org/webgl/lessons/webgl-scene-graph.html)
+    + [Matrix transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations)
 
 #### HTTP/2 Plug to Phoenix, Cowboy too by [Gary Rennie](http://twitter.com/TheGazler)
 
