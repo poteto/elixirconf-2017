@@ -260,14 +260,14 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### Elixir as a first language by Alexis Huefner
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=TUOeFdFvOk8)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
 #### The Power of Zero by [Andrew Forward](http://twitter.com/a4word)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=4LIXBW58yIk)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + [bootleg](https://github.com/labzero/bootleg)
@@ -276,7 +276,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### Well-Behaved Native Implemented Functions for Elixir by [Andrew Bennett](http://twitter.com/potatosaladx)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=FYQcn9zcZVA)
 - [Slides](https://gitpitch.com/potatosalad/elixirconf2017)
 - [Resources](https://github.com/potatosalad/elixirconf2017)
 - Links:
@@ -288,14 +288,14 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### Building an Open Source, Real-Time Forum with Phoenix and Elm by [Josh Adams](http://twitter.com/knewter)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=GFyFR5LdnrU)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
 #### Elixir, The Toyota Way by [Powell Kinney](http://twitter.com/pkinney)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=37V6L1EA4ac)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
