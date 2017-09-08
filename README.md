@@ -339,7 +339,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - Video - Not uploaded yet
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + [MQTT](http://mqtt.org/documentation)
 
 #### Realtime Vehicle Tracking with Elixir and Phoenix by [James Smith](http://twitter.com/st23am)
 
