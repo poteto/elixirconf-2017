@@ -71,7 +71,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 #### Thinking In Ecto by [Darin Wilson](http://twitter.com/darinwilson)
 
 - [Video](https://www.youtube.com/watch?v=YQxopjai0CU)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- [Slides](https://drive.google.com/file/d/0B3_AFNqIYFlHZHk5WnF2UXF5b00/view?usp=sharing)
 - Links:
     + [ecto](https://github.com/elixir-ecto/ecto)
     + [Active Record pattern](https://en.wikipedia.org/wiki/Active_record_pattern)
