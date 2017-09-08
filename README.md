@@ -126,7 +126,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### Perhap: Applying Domain Driven Design and Reactive Architectures to Functional Programming by [Rob Martin](http://twitter.com/version2beta)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=kq4qTk18N-c)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + [Perhap](https://github.com/Perhap/perhap)
@@ -145,28 +145,28 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### Cajoling the Bird: How we squeezed more out of Phoenix PubSub by [Simon Zelazny](http://twitter.com/simonzelazny)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=bodV9Tk_kpQ)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
 #### Keep an Eye on the Sky with Nerves and Phoenix by [Jeff Smith](http://twitter.com/electricshaman)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=UoSQBOP_Siw)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
 #### Scaling Up Elixir at TpT by [Shanti Chellaram](http://twitter.com/@theccoder)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=aN6cLayCekk)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
 #### Streaming Video with Elixir by [John Wahba](https://github.com/johnwahba)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=eNe5dmRP9Cc)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - [Demo](https://github.com/johnwahba/vdemo2017)
 - Links:
@@ -179,3 +179,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - [QRCode](https://github.com/sunboshan/qrcode)
 - [Thesis](https://github.com/infinitered/thesis-phoenix)
 - [XProf](https://github.com/Appliscale/xprof)
+- [Mohd Maqbool Alam](twitter.com/maqboolism)
+  + [slides(λ Calculus in ५ minutes)](https://slides.com/maqbool/lambda)
+  + [Elixir Delhi Community](meetup.com/Elixirlang-Delhi-NCR/)
+  + [Elixir Delhi telegram group](t.me/elixirdelhi)
