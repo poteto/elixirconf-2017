@@ -303,7 +303,20 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - Video - Not uploaded yet
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + [dtrace](http://www.brendangregg.com/dtrace.html)
+    + [`:erlang.trace/3`](http://erlang.org/doc/man/erlang.html#trace-3)
+    + [`:erlang.trace_pattern/3`](http://erlang.org/doc/man/erlang.html#trace_pattern-3)
+    + [observer](http://erlang.org/doc/man/observer.html)
+    + [dbg](http://erlang.org/doc/man/dbg.html)
+    + [dbg (Elixir)](https://github.com/fishcakez/dbg)
+    + [LTTng](https://lttng.org/)
+    + [erlyberly](https://github.com/andytill/erlyberly)
+    + [recon](https://github.com/ferd/recon)
+    + [recon_ex](https://github.com/tatsuya6502/recon_ex)
+    + [SystemTap](https://sourceware.org/systemtap/)
+    + [xprof](https://github.com/Appliscale/xprof)
+    + [redbug](https://github.com/massemanet/redbug)
+    + [tracer](https://github.com/gabiz/tracer)
 
 #### Plugging the Security Holes in Your Phoenix Application by [Griffin Byatt](http://twitter.com/griffinbyatt)
 
