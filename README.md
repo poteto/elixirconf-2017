@@ -183,3 +183,145 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
   + [slides(λ Calculus in ५ minutes)](https://slides.com/maqbool/lambda)
   + [Elixir Delhi Community](meetup.com/Elixirlang-Delhi-NCR/)
   + [Elixir Delhi telegram group](t.me/elixirdelhi)
+
+## Day 2
+
+### Talks
+
+#### Opening Keynote by [José Valim](https://twitter.com/josevalim)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + [Add new AtU8 beam chunk](https://github.com/erlang/otp/pull/1078)
+    + [Introduce new "Dbgi" chunk](https://github.com/erlang/otp/pull/1367)
+
+#### Live APIs with GraphQL Subscriptions by [Bruce Williams](http://twitter.com/wbruce) & [Ben Wilson](http://twitter.com/benwilson512)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### ElixirBridge: How Do We Shape Community? by [Anna Neyzberg](http://twitter.com/ANeyzb)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### Dr. Erlang/OTP or: How I Learned to Stop Worrying and Love `:disk_log` by [Eric Entin](http://twitter.com/antipax)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### Patience: Using Phoenix.Presence in a Primary Care Clinic by [Keith Gautreaux](http://twitter.com/kgautreaux)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### Elixir + Neo4j by [Regina Imhoff](http://twitter.com/stabbymcduck)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### Managing Tables With Elixir and OTP by [Robert Beene](http://twitter.com/robert_beene)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### Elixir as a first language by Alexis Huefner
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### The Power of Zero by [Andrew Forward](http://twitter.com/a4word)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### Well-Behaved Native Implemented Functions for Elixir by [Andrew Bennett](http://twitter.com/potatosaladx)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### Building an Open Source, Real-Time Forum with Phoenix and Elm by [Josh Adams](http://twitter.com/knewter)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### Elixir, The Toyota Way by [Powell Kinney](http://twitter.com/pkinney)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### Elixir Power Tracing by [Gabi Zuniga](http://twitter.com/gabiz)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### Plugging the Security Holes in Your Phoenix Application by [Griffin Byatt](http://twitter.com/griffinbyatt)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### Building Realtime Mobile Apps with React Native and Elixir by [Osayame Gaius-Obaseki](http://github.com/osayame)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### Implementing a MQTT client in Elixir by [Martin Gausby](http://twitter.com/gausby)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### Realtime Vehicle Tracking with Elixir and Phoenix by [James Smith](http://twitter.com/st23am)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### Idea Scaling by [Hannah Howard](http://twitter.com/techgirlwonder)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### Elixir with Kafka by [Mathew Gardner](http://github.com/mathewdgardner)
+
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+#### Lightning Talks
+
+- ...
