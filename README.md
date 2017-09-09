@@ -155,7 +155,8 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - [Video](https://www.youtube.com/watch?v=UoSQBOP_Siw)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + [RTL-SDR Amazon.ca](https://www.amazon.ca/gp/product/B01GDN1T4S)
+    + [RTL-SDR Amazon.com](https://www.amazon.com/dp/B01GDN1T4S)
 
 #### Scaling Up Elixir at TpT by [Shanti Chellaram](http://twitter.com/@theccoder)
 
