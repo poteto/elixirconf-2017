@@ -365,6 +365,9 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
     + [kafkaex](https://github.com/kafkaex/kafka_ex)
     + [brod](https://github.com/klarna/brod)
 
-#### Lightning Talks
+#### Closing Keynote by [Chris McCord](https://twitter.com/chris_mccord)
 
-- ...
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Links:
+    + [Phoenix contexts](https://hexdocs.pm/phoenix/contexts.html)
