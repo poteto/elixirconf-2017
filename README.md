@@ -179,10 +179,10 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - [QRCode](https://github.com/sunboshan/qrcode)
 - [Thesis](https://github.com/infinitered/thesis-phoenix)
 - [XProf](https://github.com/Appliscale/xprof)
-- [Mohd Maqbool Alam](twitter.com/maqboolism)
+- [Mohd Maqbool Alam](https://twitter.com/maqboolism)
   + [slides(λ Calculus in ५ minutes)](https://slides.com/maqbool/lambda)
-  + [Elixir Delhi Community](meetup.com/Elixirlang-Delhi-NCR/)
-  + [Elixir Delhi telegram group](t.me/elixirdelhi)
+  + [Elixir Delhi Community](https://meetup.com/Elixirlang-Delhi-NCR/)
+  + [Elixir Delhi telegram group](https://t.me/elixirdelhi)
 
 ## Day 2
 
