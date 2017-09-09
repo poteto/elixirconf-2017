@@ -184,6 +184,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
   + [slides(λ Calculus in ५ minutes)](https://slides.com/maqbool/lambda)
   + [Elixir Delhi Community](https://meetup.com/Elixirlang-Delhi-NCR/)
   + [Elixir Delhi telegram group](https://t.me/elixirdelhi)
+- [ElixirMock](https://github.com/wanderanimrod/elixir_mock): Creating inspectable mock modules for testing
 
 ## Day 2
 
