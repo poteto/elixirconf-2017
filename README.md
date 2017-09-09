@@ -302,7 +302,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### Elixir Power Tracing by [Gabi Zuniga](http://twitter.com/gabiz)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=i8ibIH5_-zA)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + [dtrace](http://www.brendangregg.com/dtrace.html)
@@ -322,28 +322,28 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### Plugging the Security Holes in Your Phoenix Application by [Griffin Byatt](http://twitter.com/griffinbyatt)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=w3lKmFsmlvQ)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + [sobelow](https://github.com/nccgroup/sobelow)
 
 #### Building Realtime Mobile Apps with React Native and Elixir by [Osayame Gaius-Obaseki](http://github.com/osayame)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=Kbhl379x1cw)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
 #### Implementing a MQTT client in Elixir by [Martin Gausby](http://twitter.com/gausby)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=ImcAcDBa8Dg)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + [MQTT](http://mqtt.org/documentation)
 
 #### Realtime Vehicle Tracking with Elixir and Phoenix by [James Smith](http://twitter.com/st23am)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=aLnSO6FQpHs)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
@@ -357,7 +357,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 
 #### Elixir with Kafka by [Mathew Gardner](http://github.com/mathewdgardner)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=6ijgMvXJyuo)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
     + [gen_stage](https://github.com/elixir-lang/gen_stage)
