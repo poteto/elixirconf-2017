@@ -247,9 +247,12 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 #### Elixir + Neo4j by [Regina Imhoff](http://twitter.com/stabbymcduck)
 
 - [Video](https://www.youtube.com/watch?v=fWQy7aS_gd8)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- Slides - [Neo4j + Elixir](https://www.slideshare.net/ReginaImhoff/elixir-neo4j)
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + [Elixir Ravelry Project](https://github.com/StabbyMcDuck/elixir_ravelry)
+    + [Neo4j](https://neo4j.com/)
+    + [O'Reilly Graph Databases book -- FREE DOWNLOAD](https://neo4j.com/graph-databases-book/)
+    + [Cypher Reference Card](http://neo4j.com/docs/cypher-refcard/current/)
 
 #### Managing Tables With Elixir and OTP by [Robert Beene](http://twitter.com/robert_beene)
 
