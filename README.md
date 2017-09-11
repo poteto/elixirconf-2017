@@ -153,8 +153,14 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 #### Keep an Eye on the Sky with Nerves and Phoenix by [Jeff Smith](http://twitter.com/electricshaman)
 
 - [Video](https://www.youtube.com/watch?v=UoSQBOP_Siw)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- [Slides](https://speakerdeck.com/electricshaman/keep-an-eye-on-the-sky-with-nerves-and-phoenix)
 - Links:
+    + [Squitter app](https://github.com/electricshaman/squitter)
+    + [Parts List (PDF on Dropbox)](https://www.dropbox.com/s/prkyoin528ylvcz/Squitter%20Parts%20List.pdf?dl=0)
+    + [ADS-B on FlightAware](http://flightaware.com/adsb/)
+    + [ADS-B Decoding Guide](https://adsb-decode-guide.readthedocs.io/en/latest/index.html)
+    + [Custom Nerves System for SDR on Raspberry Pi 3](https://hex.pm/packages/nerves_system_rpi3_sdr)
+    + [Hobbyist's Guide to the RTL-SDR](https://www.amazon.com/Hobbyists-Guide-RTL-SDR-Software-Defined/dp/1514716690)
     + [RTL-SDR Amazon.ca](https://www.amazon.ca/gp/product/B01GDN1T4S)
     + [RTL-SDR Amazon.com](https://www.amazon.com/dp/B01GDN1T4S)
 
