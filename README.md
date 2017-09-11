@@ -160,6 +160,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
     + [ADS-B on FlightAware](http://flightaware.com/adsb/)
     + [ADS-B Decoding Guide](https://adsb-decode-guide.readthedocs.io/en/latest/index.html)
     + [Custom Nerves System for SDR on Raspberry Pi 3](https://hex.pm/packages/nerves_system_rpi3_sdr)
+    + [LeafletJS](http://leafletjs.com/)
     + [Hobbyist's Guide to the RTL-SDR](https://www.amazon.com/Hobbyists-Guide-RTL-SDR-Software-Defined/dp/1514716690)
     + [RTL-SDR Amazon.ca](https://www.amazon.ca/gp/product/B01GDN1T4S)
     + [RTL-SDR Amazon.com](https://www.amazon.com/dp/B01GDN1T4S)
