@@ -61,12 +61,23 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - Links:
     + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
 
-#### Don't Write Macros (But Do Learn How They Work) by [Jesse Anderson](http://twitter.com/jessejanderson)
+#### Don't Write Macros (But Do Learn How They Work) by [Jesse J. Anderson](http://twitter.com/jessejanderson)
 
 - [Video](https://www.youtube.com/watch?v=Bo48sQDb-hk&t=1s)
 - [Slides](https://speakerdeck.com/jessejanderson/dont-write-macros-but-do-learn-how-they-work)
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + [Article - Understanding Elixir Macros](http://theerlangelist.com/article/macros_1) by Saša Jurić
+    + [Book - Metaprogramming Elixir](https://pragprog.com/book/cmelixir/metaprogramming-elixir) by Chris McCord
+    + [Community - Elixir Slack Group](https://elixir-slackin.herokuapp.com/)
+    + [Official Docs - Kernel](https://hexdocs.pm/elixir/Kernel.html)
+    + [Official Docs - Kernel.SpecialForms](https://hexdocs.pm/elixir/Kernel.SpecialForms.html)
+    + [Official Docs - Macro](https://hexdocs.pm/elixir/Macro.html)
+    + [Official Guide - Quote and unquote](https://elixir-lang.org/getting-started/meta/quote-and-unquote.html)
+    + [Official Guide - Macros](https://elixir-lang.org/getting-started/meta/macros.html)
+    + [Official Guide - Domain Specific Languages](https://elixir-lang.org/getting-started/meta/domain-specific-languages.html)
+    + [Video - Elixir in Elixir](https://youtu.be/p8MGNw045AE) by Jay Hayes
+    + [Video - Write Less, Do More (and Have Fun!) with Elixir Macros](https://youtu.be/mkoYqXdXl5Y) by Chris McCord
+
 
 #### Thinking In Ecto by [Darin Wilson](http://twitter.com/darinwilson)
 
