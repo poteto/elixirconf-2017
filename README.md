@@ -3,7 +3,10 @@
 A collection of links that cover what happened during ElixirConf 2017. Please feel free to submit a PR!
 
 ## Photos
-  + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+
+- [600 Developers](images/elixir-conf-600-developers.JPG)
+- [Audience](images/elixir-conf-crowd.JPG)
+- [José Keynote](images/elixir-conf-happy-josé.JPG)
 
 ## Day 1
 
