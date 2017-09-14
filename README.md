@@ -124,9 +124,10 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 #### Working with legacy databases in Ecto by [Geoffrey Lessel](http://twitter.com/geolessel)
 
 - [Video](https://www.youtube.com/watch?v=3W2dMOQL2CM)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- [Slides](https://speakerdeck.com/geolessel/working-with-legacy-databases-in-ecto-elixirconf-2017)
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + [Code examples and notes](http://geoffreylessel.com/elixirconf2017)
+    + [Using Ecto With an Existing Database](http://geoffreylessel.com/2016/using-ecto-with-an-existing-mysql-database/)
 
 #### Back on Your Feet by [Claudio Ortolina](http://twitter.com/cloud8421)
 
