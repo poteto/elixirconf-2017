@@ -131,7 +131,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 #### Back on Your Feet by [Claudio Ortolina](http://twitter.com/cloud8421)
 
 - [Video](https://www.youtube.com/watch?v=kWYgrA2YshE)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- [Slides](https://speakerdeck.com/cloud8421/back-on-your-feet)
 - Links:
     + [Out of the Tar Pit](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf)
     + [ETS](http://erlang.org/doc/man/ets.html)
