@@ -295,7 +295,7 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 #### The Power of Zero by [Andrew Forward](http://twitter.com/a4word)
 
 - [Video](https://www.youtube.com/watch?v=4LIXBW58yIk)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
+- [Slides](https://www.slideshare.net/aaforward/power-of-zero-79570500)
 - Links:
     + [bootleg](https://github.com/labzero/bootleg)
     + [edeliver](https://github.com/edeliver/edeliver)
