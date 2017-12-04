@@ -156,7 +156,23 @@ A collection of links that cover what happened during ElixirConf 2017. Please fe
 - [Video](https://www.youtube.com/watch?v=6lIVWVmuPao)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2017/pulls) if you find it!
 - Links:
-    + None yet. Open a [PR](https://github.com/poteto/elixirconf-2017/pulls)!
+    + Editors mentioned
+        + [ed](https://en.wikipedia.org/wiki/Ed_(text_editor))
+        + [vi](https://en.wikipedia.org/wiki/Vi)/[vim](https://en.wikipedia.org/wiki/Vim_(text_editor))
+        + [Squeak](http://squeak.org/)
+        + [IntelliJ](https://www.jetbrains.com/idea/)
+        + [Eclipse](https://www.eclipse.org/)
+        + [NetBeans](https://netbeans.org/)
+        + [TextMate](https://macromates.com/)
+        + [Sublime](https://www.sublimetext.com/)
+        + [Atom](https://atom.io/)
+        + [Emacs](https://www.gnu.org/software/emacs/)
+    + [Rope (data structure)](https://en.wikipedia.org/wiki/Rope_(data_structure))
+    + [Ropes in Elixir](https://github.com/copenhas/ropex)
+    + [Ropes in Rust](https://github.com/google/xi-editor/tree/master/rust/rope)
+    + [wx](http://erlang.org/doc/man/wx.html)
+    + [wx Elixir wrapper](https://github.com/ijcd/wx_widgets)
+    + [combine](https://github.com/bitwalker/combine)
 
 #### Cajoling the Bird: How we squeezed more out of Phoenix PubSub by [Simon Zelazny](http://twitter.com/simonzelazny)
 
